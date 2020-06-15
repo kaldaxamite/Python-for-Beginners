@@ -1,2 +1,8 @@
 course = 'Python for Beginners'
-print('python' in course)
+len()
+course.upper()
+course.lower()
+course.title()
+coure.find()
+course.replace()
+'...' in course
