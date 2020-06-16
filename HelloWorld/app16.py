@@ -1,4 +1,4 @@
-name = "debayan nada "
+name = "Debayan"
 
 if len(name) < 3:
     print("Name must be at least 3 character")
