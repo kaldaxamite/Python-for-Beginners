@@ -1,2 +1,2 @@
-for item in 'Python':
+for item in ['Debayan', 'Dipan']:
     print(item)
