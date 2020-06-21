@@ -1,2 +1,2 @@
 names = ['John', 'Rachit', 'Debayan', 'Niranajan' ]
-print(names)
+print(names[0])
