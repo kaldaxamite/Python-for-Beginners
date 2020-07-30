@@ -1,4 +1,4 @@
-costomer = {
+customer = {
     "name": "Debayan Nanda",
     "age": 12,
     "is_verified": True
