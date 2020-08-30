@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.app51">
+  <component name="RunManager" selected="Python.app52">
     <configuration name="app48" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-for-Beginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,8 +111,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-for-Beginners" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app52.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app52" />
         <item itemvalue="Python.app51" />
         <item itemvalue="Python.app50" />
         <item itemvalue="Python.app49" />
@@ -136,22 +158,22 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1598770402078" />
-    <state width="778" height="235" key="GridCell.Tab.0.bottom" timestamp="1598773208156">
+    <state width="778" height="235" key="GridCell.Tab.0.bottom" timestamp="1598773902560">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="778" height="235" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1598773208156" />
-    <state width="778" height="235" key="GridCell.Tab.0.center" timestamp="1598773208155">
+    <state width="778" height="235" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1598773902560" />
+    <state width="778" height="235" key="GridCell.Tab.0.center" timestamp="1598773902560">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="778" height="235" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1598773208155" />
-    <state width="778" height="235" key="GridCell.Tab.0.left" timestamp="1598773208155">
+    <state width="778" height="235" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1598773902560" />
+    <state width="778" height="235" key="GridCell.Tab.0.left" timestamp="1598773902560">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="778" height="235" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1598773208155" />
-    <state width="778" height="235" key="GridCell.Tab.0.right" timestamp="1598773208155">
+    <state width="778" height="235" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1598773902560" />
+    <state width="778" height="235" key="GridCell.Tab.0.right" timestamp="1598773902560">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="778" height="235" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1598773208155" />
+    <state width="778" height="235" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1598773902560" />
     <state x="301" y="94" key="SettingsEditor" timestamp="1598770518109">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
